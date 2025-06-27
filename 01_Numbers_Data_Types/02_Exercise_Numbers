@@ -1,9 +1,0 @@
-1. Create a string variable that stores your favorite movie title. Print the length of the title and also print it in uppercase.
-
-2. Given a string greeting = "Hello, World!", extract and print only the word "World" using slicing.
-
-3. Ask the user to enter their full name and print it in title case (where each word starts with a capital letter).
-
-4. Define a string sentence = " Python is amazing! " and demonstrate how to remove extra spaces from both ends of the string.
-
-5. Replace all occurrences of the word "bad" with "good" in this string: "This movie was bad, the acting was bad, and the story was bad." Then print the modified string.
