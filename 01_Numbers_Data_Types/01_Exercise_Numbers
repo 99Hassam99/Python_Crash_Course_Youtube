@@ -1,0 +1,15 @@
+1.Football Ground Area Calculation
+You are managing a football ground that is 92 meters long and 48.8 meters wide.
+Write a Python program to calculate and print the total area of the ground in square meters.
+
+2.Chips Purchase & Change Calculation
+You went to a grocery store and bought 9 packets of chips, each costing $1.49.
+If you paid the shopkeeper $20, use Python to calculate and display how much money you should get back.
+
+3.Bathroom Tiling Cost Estimate
+You plan to renovate your square-shaped bathroom, which has a side length of 5.5 feet.
+If tiling costs 500 rupees per square foot, write a Python program to calculate and print the total renovation cost.
+Hint: Use the ** operator to find the area of a square.
+
+4.Binary Representation Task
+Write a Python program that prints the binary representation of the number 17.
